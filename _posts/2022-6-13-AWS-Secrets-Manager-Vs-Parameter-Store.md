@@ -24,7 +24,7 @@ Secrets Manager works similarly with added functions:
 
 #### What are the differences?
 ### Cost:
-Secrets Manager costs MORE, .40 pr secret per month with API interactions costing .05 per 10,000 API calls.
+Secrets Manager costs MORE, \$.40 per secret per month with API interactions costing \$.05 per 10,000 API calls.
 
 Parameter Store is free unless there is high throughput, and then it costs .05 per advanced parameter per month and API interactions cost .05 per 10,000 API calls.
 
