@@ -3,7 +3,7 @@ layout: post
 title: AWS Secrets Manager Vs. Parameter Store
 published: true
 ---
-While studying for the AWS Sys-Ops exam, I became pretty confused about the difference between Secrets Manager and Systems Manager Parameter Store. They both seem to do the same thing: store secrets for your AWS account. They also have incredibly similar names, which further obfuscates their differences (and makes it really easy to commit typos when referring them in documentation). I needed to delve deeper into the differences in order to understand the best use case scenario questions on the exam. After a more detailed examination, I found quite a few differences between the two and formlated some general rules for which to use them. Follow me if you would like to better understand these AWS services.
+While studying for the AWS Sys-Ops exam, I became pretty confused about the difference between Secrets Manager and Systems Manager Parameter Store. They both seem to do the same thing: store secrets for your AWS account. They also have incredibly similar names, which further obfuscates their differences (and makes it really easy to commit typos when referring them in documentation). I needed to delve deeper into the differences in order to understand the best use case scenario questions on the exam. After a more detailed examination, I found quite a few differences between the two and formulated some general rules for which to use them. Follow me if you would like to better understand these AWS services.
 
 ### In general:
 Systems Manager (Parameter Store)
