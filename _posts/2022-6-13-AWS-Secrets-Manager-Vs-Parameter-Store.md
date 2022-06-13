@@ -15,14 +15,14 @@ Systems Manager (Parameter Store)
 + Custom settings
 
 Secrets Manager works similarly with added functions:
-- Provides cross-account access
-- Automatic password rotation
-- Password generator
-- Allows multiple versions to be saved (Systems Manager allows for 1 previous version)
-- Best for storing:
-+ Database credentials
-+ API keys
-+ **Secrets Manager is encrypted by default, it is built for storing sensitive passwords securely**
++ Provides cross-account access
++ Automatic password rotation
++ Password generator
++ Allows multiple versions to be saved (Systems Manager allows for 1 previous version)
++ Best for storing:
+- Database credentials
+- API keys
+- **Secrets Manager is encrypted by default, it is built for storing sensitive passwords securely**
 
 ### What are the differences?
 #### Cost:
