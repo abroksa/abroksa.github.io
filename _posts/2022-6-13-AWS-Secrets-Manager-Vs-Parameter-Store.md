@@ -8,19 +8,21 @@ While studying for the AWS Sys-Ops exam, I became pretty confused about the diff
 ### In general:
 Systems Manager (Parameter Store)
 - Securely store secrets and parameters
-- Wider use cases
-- Appliction configuration variables
-- License keys
-- Custom settings
+- Has wider use cases
+- Good for storing:
++ Appliction configuration variables
++ License keys
++ Custom settings
 
 Secrets Manager works similarly with added functions:
 - Provides cross-account access
 - Automatic password rotation
 - Password generator
-- Database credentials
-- API keys
 - Allows multiple versions to be saved (Systems Manager allows for 1 previous version)
-**Secrets Manager is encrypted by default, it is built for storing sensitive passwords securely**
+- Best for storing:
++ Database credentials
++ API keys
++ **Secrets Manager is encrypted by default, it is built for storing sensitive passwords securely**
 
 ### What are the differences?
 #### Cost:
