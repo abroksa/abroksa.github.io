@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a developer with an interest in cloud engineering and devOps
 
-### More Information
+### Learn With Me!
 
-A place to include any other types of information that you'd like to include about yourself.
+I am learning so much I want to share it with you. I plan on creating posts summarizing my notes while studying for the AWS Sys-Ops Administrator Associate exam. Stay tuned for topics such as:
+*Code Deployment Best Practices
+*Monitoring and Logging
+*Automation and Auto-scaling
+*Load Balancers
+*AWS Security and Compliance
+*Networking and VPCs
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
