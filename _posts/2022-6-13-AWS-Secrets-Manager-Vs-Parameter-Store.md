@@ -10,9 +10,9 @@ Systems Manager (Parameter Store)
 - Securely store secrets and parameters
 - Has wider use cases
 - Good for storing:
-+ Appliction configuration variables
-+ License keys
-+ Custom settings
+ + Appliction configuration variables
+ + License keys
+ + Custom settings
 
 Secrets Manager works similarly with added functions:
 + Provides cross-account access
@@ -20,9 +20,9 @@ Secrets Manager works similarly with added functions:
 + Password generator
 + Allows multiple versions to be saved (Systems Manager allows for 1 previous version)
 + Best for storing:
-- Database credentials
-- API keys
-- **Secrets Manager is encrypted by default, it is built for storing sensitive passwords securely**
+ - Database credentials
+ - API keys
+ - **Secrets Manager is encrypted by default, it is built for storing sensitive passwords securely**
 
 ### What are the differences?
 #### Cost:
