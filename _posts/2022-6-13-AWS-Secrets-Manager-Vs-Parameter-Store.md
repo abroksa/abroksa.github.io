@@ -9,7 +9,8 @@ While studying for the AWS Sys-Ops exam, I became pretty confused about the diff
 Systems Manager (Parameter Store)
 - Securely store secrets and parameters
 - Has wider use cases
-- Good for storing:
+
+Good for storing:
  + Appliction configuration variables
  + License keys
  + Custom settings
@@ -19,7 +20,8 @@ Secrets Manager works similarly with added functions:
 + Automatic password rotation
 + Password generator
 + Allows multiple versions to be saved (Systems Manager allows for 1 previous version)
-+ Best for storing:
+
+Best for storing:
  - Database credentials
  - API keys
  - **Secrets Manager is encrypted by default, it is built for storing sensitive passwords securely**
